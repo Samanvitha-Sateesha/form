@@ -1,0 +1,19 @@
+.marquee{
+  font-family: 'Grenze', serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+body{
+	font-family: 'Merriweather', serif;
+	background-color:#f4f4f4;
+}
+.input-group-text{
+	background-color: #0000f8;
+	color: white;
+}
+p{
+	font-family: 'Acme', sans-serif;
+	font-size: 25px;
+	text-transform: uppercase;
+	letter-spacing: 0.1rem;
+}
